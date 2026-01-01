@@ -16,496 +16,142 @@ This repository contains 26 jQuery versions across three major releases:
 
 Simply include the script tag in your HTML file:
 
-### jQuery v3.x (Latest - Recommended)
+# jQuery CDN (jsDelivr)
 
-- jQuery 3.7.1 (Latest Stable)
+## v3.x
 
+- jQuery 3.7.1
 ```html
 <script src="https://cdn.jsdelivr.net/gh/ramyibrahim-eg/jquery@main/v3/jquery-3.7.1.min.js"></script>
 ```
 
 - jQuery 3.7.0
-
 ```html
 <script src="https://cdn.jsdelivr.net/gh/ramyibrahim-eg/jquery@main/v3/jquery-3.7.0.min.js"></script>
 ```
 
 - jQuery 3.6.4
-
 ```html
 <script src="https://cdn.jsdelivr.net/gh/ramyibrahim-eg/jquery@main/v3/jquery-3.6.4.min.js"></script>
 ```
 
 - jQuery 3.6.3
-
 ```html
 <script src="https://cdn.jsdelivr.net/gh/ramyibrahim-eg/jquery@main/v3/jquery-3.6.3.min.js"></script>
 ```
 
 - jQuery 3.6.1
-
 ```html
 <script src="https://cdn.jsdelivr.net/gh/ramyibrahim-eg/jquery@main/v3/jquery-3.6.1.min.js"></script>
 ```
 
 - jQuery 3.6.0
-
 ```html
 <script src="https://cdn.jsdelivr.net/gh/ramyibrahim-eg/jquery@main/v3/jquery-3.6.0.min.js"></script>
 ```
 
 - jQuery 3.5.1
-
 ```html
 <script src="https://cdn.jsdelivr.net/gh/ramyibrahim-eg/jquery@main/v3/jquery-3.5.1.min.js"></script>
 ```
 
 - jQuery 3.4.1
-
 ```html
 <script src="https://cdn.jsdelivr.net/gh/ramyibrahim-eg/jquery@main/v3/jquery-3.4.1.min.js"></script>
 ```
 
 - jQuery 3.3.1
-
 ```html
 <script src="https://cdn.jsdelivr.net/gh/ramyibrahim-eg/jquery@main/v3/jquery-3.3.1.min.js"></script>
 ```
 
 - jQuery 3.2.1
-
 ```html
 <script src="https://cdn.jsdelivr.net/gh/ramyibrahim-eg/jquery@main/v3/jquery-3.2.1.min.js"></script>
 ```
 
 - jQuery 3.1.1
-
 ```html
 <script src="https://cdn.jsdelivr.net/gh/ramyibrahim-eg/jquery@main/v3/jquery-3.1.1.min.js"></script>
 ```
 
 - jQuery 3.0.0
-
 ```html
 <script src="https://cdn.jsdelivr.net/gh/ramyibrahim-eg/jquery@main/v3/jquery-3.0.0.min.js"></script>
 ```
 
-### jQuery v2.x
+## v2.x
 
-- jQuery 2.2.4 (Latest in v2)
-
+- jQuery 2.2.4
 ```html
 <script src="https://cdn.jsdelivr.net/gh/ramyibrahim-eg/jquery@main/v2/jquery-2.2.4.min.js"></script>
 ```
 
 - jQuery 2.1.4
-
 ```html
 <script src="https://cdn.jsdelivr.net/gh/ramyibrahim-eg/jquery@main/v2/jquery-2.1.4.min.js"></script>
 ```
 
 - jQuery 2.0.3
-
 ```html
 <script src="https://cdn.jsdelivr.net/gh/ramyibrahim-eg/jquery@main/v2/jquery-2.0.3.min.js"></script>
 ```
 
-### jQuery v1.x (Legacy Support)
+## v1.x
 
-- jQuery 1.12.4 (Latest in v1)
-
+- jQuery 1.12.4
 ```html
 <script src="https://cdn.jsdelivr.net/gh/ramyibrahim-eg/jquery@main/v1/jquery-1.12.4.min.js"></script>
 ```
 
 - jQuery 1.11.3
-
 ```html
 <script src="https://cdn.jsdelivr.net/gh/ramyibrahim-eg/jquery@main/v1/jquery-1.11.3.min.js"></script>
 ```
 
 - jQuery 1.10.2
-
 ```html
 <script src="https://cdn.jsdelivr.net/gh/ramyibrahim-eg/jquery@main/v1/jquery-1.10.2.min.js"></script>
 ```
 
 - jQuery 1.9.1
-
 ```html
 <script src="https://cdn.jsdelivr.net/gh/ramyibrahim-eg/jquery@main/v1/jquery-1.9.1.min.js"></script>
 ```
 
 - jQuery 1.8.3
-
 ```html
 <script src="https://cdn.jsdelivr.net/gh/ramyibrahim-eg/jquery@main/v1/jquery-1.8.3.min.js"></script>
 ```
 
 - jQuery 1.7.2
-
 ```html
 <script src="https://cdn.jsdelivr.net/gh/ramyibrahim-eg/jquery@main/v1/jquery-1.7.2.min.js"></script>
 ```
 
 - jQuery 1.6.4
-
 ```html
 <script src="https://cdn.jsdelivr.net/gh/ramyibrahim-eg/jquery@main/v1/jquery-1.6.4.min.js"></script>
 ```
 
 - jQuery 1.5.2
-
 ```html
 <script src="https://cdn.jsdelivr.net/gh/ramyibrahim-eg/jquery@main/v1/jquery-1.5.2.min.js"></script>
 ```
 
 - jQuery 1.4.4
-
 ```html
 <script src="https://cdn.jsdelivr.net/gh/ramyibrahim-eg/jquery@main/v1/jquery-1.4.4.min.js"></script>
 ```
 
 - jQuery 1.3.2
-
 ```html
 <script src="https://cdn.jsdelivr.net/gh/ramyibrahim-eg/jquery@main/v1/jquery-1.3.2.min.js"></script>
 ```
 
 - jQuery 1.2.6
-
 ```html
 <script src="https://cdn.jsdelivr.net/gh/ramyibrahim-eg/jquery@main/v1/jquery-1.2.6.min.js"></script>
-```
-
-## 🔄 Alternative CDN Options
-
-### Raw GitHub (Direct Access)
-
-#### jQuery v3.x
-
-- jQuery 3.7.1
-
-```html
-<script src="https://raw.githubusercontent.com/ramyibrahim-eg/jquery/main/v3/jquery-3.7.1.min.js"></script>
-```
-
-- jQuery 3.7.0
-
-```html
-<script src="https://raw.githubusercontent.com/ramyibrahim-eg/jquery/main/v3/jquery-3.7.0.min.js"></script>
-```
-
-- jQuery 3.6.4
-
-```html
-<script src="https://raw.githubusercontent.com/ramyibrahim-eg/jquery/main/v3/jquery-3.6.4.min.js"></script>
-```
-
-- jQuery 3.6.3
-
-```html
-<script src="https://raw.githubusercontent.com/ramyibrahim-eg/jquery/main/v3/jquery-3.6.3.min.js"></script>
-```
-
-- jQuery 3.6.1
-
-```html
-<script src="https://raw.githubusercontent.com/ramyibrahim-eg/jquery/main/v3/jquery-3.6.1.min.js"></script>
-```
-
-- jQuery 3.6.0
-
-```html
-<script src="https://raw.githubusercontent.com/ramyibrahim-eg/jquery/main/v3/jquery-3.6.0.min.js"></script>
-```
-
-- jQuery 3.5.1
-
-```html
-<script src="https://raw.githubusercontent.com/ramyibrahim-eg/jquery/main/v3/jquery-3.5.1.min.js"></script>
-```
-
-- jQuery 3.4.1
-
-```html
-<script src="https://raw.githubusercontent.com/ramyibrahim-eg/jquery/main/v3/jquery-3.4.1.min.js"></script>
-```
-
-- jQuery 3.3.1
-
-```html
-<script src="https://raw.githubusercontent.com/ramyibrahim-eg/jquery/main/v3/jquery-3.3.1.min.js"></script>
-```
-
-- jQuery 3.2.1
-
-```html
-<script src="https://raw.githubusercontent.com/ramyibrahim-eg/jquery/main/v3/jquery-3.2.1.min.js"></script>
-```
-
-- jQuery 3.1.1
-
-```html
-<script src="https://raw.githubusercontent.com/ramyibrahim-eg/jquery/main/v3/jquery-3.1.1.min.js"></script>
-```
-
-- jQuery 3.0.0
-
-```html
-<script src="https://raw.githubusercontent.com/ramyibrahim-eg/jquery/main/v3/jquery-3.0.0.min.js"></script>
-```
-
-#### jQuery v2.x
-
-- jQuery 2.2.4
-
-```html
-<script src="https://raw.githubusercontent.com/ramyibrahim-eg/jquery/main/v2/jquery-2.2.4.min.js"></script>
-```
-
-- jQuery 2.1.4
-
-```html
-<script src="https://raw.githubusercontent.com/ramyibrahim-eg/jquery/main/v2/jquery-2.1.4.min.js"></script>
-```
-
-- jQuery 2.0.3
-
-```html
-<script src="https://raw.githubusercontent.com/ramyibrahim-eg/jquery/main/v2/jquery-2.0.3.min.js"></script>
-```
-
-#### jQuery v1.x
-
-- jQuery 1.12.4
-
-```html
-<script src="https://raw.githubusercontent.com/ramyibrahim-eg/jquery/main/v1/jquery-1.12.4.min.js"></script>
-```
-
-- jQuery 1.11.3
-
-```html
-<script src="https://raw.githubusercontent.com/ramyibrahim-eg/jquery/main/v1/jquery-1.11.3.min.js"></script>
-```
-
-- jQuery 1.10.2
-
-```html
-<script src="https://raw.githubusercontent.com/ramyibrahim-eg/jquery/main/v1/jquery-1.10.2.min.js"></script>
-```
-
-- jQuery 1.9.1
-
-```html
-<script src="https://raw.githubusercontent.com/ramyibrahim-eg/jquery/main/v1/jquery-1.9.1.min.js"></script>
-```
-
-- jQuery 1.8.3
-
-```html
-<script src="https://raw.githubusercontent.com/ramyibrahim-eg/jquery/main/v1/jquery-1.8.3.min.js"></script>
-```
-
-- jQuery 1.7.2
-
-```html
-<script src="https://raw.githubusercontent.com/ramyibrahim-eg/jquery/main/v1/jquery-1.7.2.min.js"></script>
-```
-
-- jQuery 1.6.4
-
-```html
-<script src="https://raw.githubusercontent.com/ramyibrahim-eg/jquery/main/v1/jquery-1.6.4.min.js"></script>
-```
-
-- jQuery 1.5.2
-
-```html
-<script src="https://raw.githubusercontent.com/ramyibrahim-eg/jquery/main/v1/jquery-1.5.2.min.js"></script>
-```
-
-- jQuery 1.4.4
-
-```html
-<script src="https://raw.githubusercontent.com/ramyibrahim-eg/jquery/main/v1/jquery-1.4.4.min.js"></script>
-```
-
-- jQuery 1.3.2
-
-```html
-<script src="https://raw.githubusercontent.com/ramyibrahim-eg/jquery/main/v1/jquery-1.3.2.min.js"></script>
-```
-
-- jQuery 1.2.6
-
-```html
-<script src="https://raw.githubusercontent.com/ramyibrahim-eg/jquery/main/v1/jquery-1.2.6.min.js"></script>
-```
-
-### GitHack CDN
-
-#### jQuery v3.x
-
-- jQuery 3.7.1
-
-```html
-<script src="https://rawcdn.githack.com/ramyibrahim-eg/jquery/main/v3/jquery-3.7.1.min.js"></script>
-```
-
-- jQuery 3.7.0
-
-```html
-<script src="https://rawcdn.githack.com/ramyibrahim-eg/jquery/main/v3/jquery-3.7.0.min.js"></script>
-```
-
-- jQuery 3.6.4
-
-```html
-<script src="https://rawcdn.githack.com/ramyibrahim-eg/jquery/main/v3/jquery-3.6.4.min.js"></script>
-```
-
-- jQuery 3.6.3
-
-```html
-<script src="https://rawcdn.githack.com/ramyibrahim-eg/jquery/main/v3/jquery-3.6.3.min.js"></script>
-```
-
-- jQuery 3.6.1
-
-```html
-<script src="https://rawcdn.githack.com/ramyibrahim-eg/jquery/main/v3/jquery-3.6.1.min.js"></script>
-```
-
-- jQuery 3.6.0
-
-```html
-<script src="https://rawcdn.githack.com/ramyibrahim-eg/jquery/main/v3/jquery-3.6.0.min.js"></script>
-```
-
-- jQuery 3.5.1
-
-```html
-<script src="https://rawcdn.githack.com/ramyibrahim-eg/jquery/main/v3/jquery-3.5.1.min.js"></script>
-```
-
-- jQuery 3.4.1
-
-```html
-<script src="https://rawcdn.githack.com/ramyibrahim-eg/jquery/main/v3/jquery-3.4.1.min.js"></script>
-```
-
-- jQuery 3.3.1
-
-```html
-<script src="https://rawcdn.githack.com/ramyibrahim-eg/jquery/main/v3/jquery-3.3.1.min.js"></script>
-```
-
-- jQuery 3.2.1
-
-```html
-<script src="https://rawcdn.githack.com/ramyibrahim-eg/jquery/main/v3/jquery-3.2.1.min.js"></script>
-```
-
-- jQuery 3.1.1
-
-```html
-<script src="https://rawcdn.githack.com/ramyibrahim-eg/jquery/main/v3/jquery-3.1.1.min.js"></script>
-```
-
-- jQuery 3.0.0
-
-```html
-<script src="https://rawcdn.githack.com/ramyibrahim-eg/jquery/main/v3/jquery-3.0.0.min.js"></script>
-```
-
-#### jQuery v2.x
-
-- jQuery 2.2.4
-
-```html
-<script src="https://rawcdn.githack.com/ramyibrahim-eg/jquery/main/v2/jquery-2.2.4.min.js"></script>
-```
-
-- jQuery 2.1.4
-
-```html
-<script src="https://rawcdn.githack.com/ramyibrahim-eg/jquery/main/v2/jquery-2.1.4.min.js"></script>
-```
-
-- jQuery 2.0.3
-
-```html
-<script src="https://rawcdn.githack.com/ramyibrahim-eg/jquery/main/v2/jquery-2.0.3.min.js"></script>
-```
-
-#### jQuery v1.x
-
-- jQuery 1.12.4
-
-```html
-<script src="https://rawcdn.githack.com/ramyibrahim-eg/jquery/main/v1/jquery-1.12.4.min.js"></script>
-```
-
-- jQuery 1.11.3
-
-```html
-<script src="https://rawcdn.githack.com/ramyibrahim-eg/jquery/main/v1/jquery-1.11.3.min.js"></script>
-```
-
-- jQuery 1.10.2
-
-```html
-<script src="https://rawcdn.githack.com/ramyibrahim-eg/jquery/main/v1/jquery-1.10.2.min.js"></script>
-```
-
-- jQuery 1.9.1
-
-```html
-<script src="https://rawcdn.githack.com/ramyibrahim-eg/jquery/main/v1/jquery-1.9.1.min.js"></script>
-```
-
-- jQuery 1.8.3
-
-```html
-<script src="https://rawcdn.githack.com/ramyibrahim-eg/jquery/main/v1/jquery-1.8.3.min.js"></script>
-```
-
-- jQuery 1.7.2
-
-```html
-<script src="https://rawcdn.githack.com/ramyibrahim-eg/jquery/main/v1/jquery-1.7.2.min.js"></script>
-```
-
-- jQuery 1.6.4
-
-```html
-<script src="https://rawcdn.githack.com/ramyibrahim-eg/jquery/main/v1/jquery-1.6.4.min.js"></script>
-```
-
-- jQuery 1.5.2
-
-```html
-<script src="https://rawcdn.githack.com/ramyibrahim-eg/jquery/main/v1/jquery-1.5.2.min.js"></script>
-```
-
-- jQuery 1.4.4
-
-```html
-<script src="https://rawcdn.githack.com/ramyibrahim-eg/jquery/main/v1/jquery-1.4.4.min.js"></script>
-```
-
-- jQuery 1.3.2
-
-```html
-<script src="https://rawcdn.githack.com/ramyibrahim-eg/jquery/main/v1/jquery-1.3.2.min.js"></script>
-```
-
-- jQuery 1.2.6
-
-```html
-<script src="https://rawcdn.githack.com/ramyibrahim-eg/jquery/main/v1/jquery-1.2.6.min.js"></script>
 ```
 
 ## 📖 Usage Example
